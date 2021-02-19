@@ -1,0 +1,1 @@
+Various stock projects I worked on for brushing up on python and learning ML. Unfortunately not very effective at predicting the stock market. 
